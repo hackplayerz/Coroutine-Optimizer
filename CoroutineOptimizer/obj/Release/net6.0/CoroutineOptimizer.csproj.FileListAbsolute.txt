@@ -1,0 +1,15 @@
+D:\WorkSpace\Library\CoroutineOptimizer\CoroutineOptimizer\bin\Release\net6.0\CoroutineOptimizer.deps.json
+D:\WorkSpace\Library\CoroutineOptimizer\CoroutineOptimizer\bin\Release\net6.0\CoroutineOptimizer.dll
+D:\WorkSpace\Library\CoroutineOptimizer\CoroutineOptimizer\bin\Release\net6.0\CoroutineOptimizer.pdb
+D:\WorkSpace\Library\CoroutineOptimizer\CoroutineOptimizer\bin\Release\net6.0\UnityEngine.dll
+D:\WorkSpace\Library\CoroutineOptimizer\CoroutineOptimizer\bin\Release\net6.0\UnityEngine.xml
+D:\WorkSpace\Library\CoroutineOptimizer\CoroutineOptimizer\obj\Release\net6.0\CoroutineOptimizer.csproj.AssemblyReference.cache
+D:\WorkSpace\Library\CoroutineOptimizer\CoroutineOptimizer\obj\Release\net6.0\CoroutineOptimizer.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\Library\CoroutineOptimizer\CoroutineOptimizer\obj\Release\net6.0\CoroutineOptimizer.AssemblyInfoInputs.cache
+D:\WorkSpace\Library\CoroutineOptimizer\CoroutineOptimizer\obj\Release\net6.0\CoroutineOptimizer.AssemblyInfo.cs
+D:\WorkSpace\Library\CoroutineOptimizer\CoroutineOptimizer\obj\Release\net6.0\CoroutineOptimizer.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Library\CoroutineOptimizer\CoroutineOptimizer\obj\Release\net6.0\CoroutineOptimizer.csproj.CopyComplete
+D:\WorkSpace\Library\CoroutineOptimizer\CoroutineOptimizer\obj\Release\net6.0\CoroutineOptimizer.dll
+D:\WorkSpace\Library\CoroutineOptimizer\CoroutineOptimizer\obj\Release\net6.0\refint\CoroutineOptimizer.dll
+D:\WorkSpace\Library\CoroutineOptimizer\CoroutineOptimizer\obj\Release\net6.0\CoroutineOptimizer.pdb
+D:\WorkSpace\Library\CoroutineOptimizer\CoroutineOptimizer\obj\Release\net6.0\ref\CoroutineOptimizer.dll
