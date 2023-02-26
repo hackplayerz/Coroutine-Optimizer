@@ -3,7 +3,7 @@
 최적화된 코루틴 라이브러리
 
 ===================================</br>
-@@ 2. 코루틴 최적화... @@</br>
+@@ 코루틴 최적화 @@</br>
 [ 참고 : https://ejonghyuck.github.io/blog/2016-12-12/unity-coroutine-optimization/ ]</br>
 ===================================<br>
 1] Garbage<br>
@@ -77,7 +77,7 @@ public static WaitForSeconds WaitForSeconds(float seconds)
 {
     WaitForSeconds wfs;
     if (!_timeInterval.TryGetValue(seconds, out wfs))
-    _timeInterval.Add(seconds, wfs = new WaitForSeconds(seconds));
+       _timeInterval.Add(seconds, wfs = new WaitForSeconds(seconds));
     return wfs;
 }
 
@@ -98,9 +98,9 @@ using CoroutineOptimizer; // 라이브러리 임포트
 
 IEnumerator Func()
 {
-yield return CoroutineOptimizer.WaitForSeconds((float)waiting time); // 멈출 시간
-yield return CoroutineOptimizer.WaitForEndOfFrame; // 프레임이 끝날때 까지 대기
-yield return CoroutineOptimizer.WaitForFixedUpdate; // FixedUpdate() 끝날때 까지 대기
+   yield return CoroutineOptimizer.WaitForSeconds((float)waiting time); // 멈출 시간
+   yield return CoroutineOptimizer.WaitForEndOfFrame; // 프레임이 끝날때 까지 대기
+   yield return CoroutineOptimizer.WaitForFixedUpdate; // FixedUpdate() 끝날때 까지 대기
 }
 
 ```
