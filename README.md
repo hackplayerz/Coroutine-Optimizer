@@ -57,7 +57,9 @@ yield return YieldInstructionCache.WaitForFixedUpdate;
 ```
 ===================================<br>
 4] WaitForSeconds<br>
-===================================<br> - WaitForSeconds의 경우 시간 값에 따라 인스턴스가 생성됨. - 인게임 중 대기 시간을 얼만큼 설정할지는 예측하기 힘듬.<br>
+===================================<br> 
+- WaitForSeconds의 경우 시간 값에 따라 인스턴스가 생성됨. 
+- 인게임 중 대기 시간을 얼만큼 설정할지는 예측하기 힘듬.<br>
 
 다음과 같은 방법으로 보완.
 ```cs
